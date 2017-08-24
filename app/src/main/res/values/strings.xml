@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Quiz</string>
     <string name="str_btn1">name</string>
+    <string name="txt10">Mike Creative Mints</string>
+    <string name="txt11">UI/UX Designer at KREATIVE</string>
+    <string name="txt1">iOS Game / Making of Game Concept</string>
+    <string name="txt_1">Game Desing, Ilustration, iOS, Fine arts, Digil art</string>
 </resources>
